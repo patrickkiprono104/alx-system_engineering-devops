@@ -1,2 +1,2 @@
-#!/bish/bash
-sort | uniq -u
+#!/bin/bash
+ls -t1 | head 
